@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end development along with python
 - 🌱 I’m currently learning javascript and machine Learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.instagram.com/ram_choudary/
+- 📫 How to reach me https://instagram.com/ram_choudary?igshid=YmMyMTA2M2Y=
 
 <!---
 Ram-466/Ram-466 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
