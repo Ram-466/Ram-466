@@ -82,7 +82,7 @@ Developed a semantic similarity system for detecting duplicate questions on plat
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ram-466&label=Profile%20Views&color=6&icon=0&pretty=true"/>
+  <img src="https://komarev.com/ghpvc/?username=Ram-466&label=Profile%20views&color=blue&style=flat-square" alt="profile views"/>
 </p>
 
 <h4 align="center">✨ Exploring Intelligence through Data ✨</h4>
