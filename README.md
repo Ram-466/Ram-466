@@ -13,29 +13,6 @@ When I’m not building models, I enjoy exploring creative projects in **art**, 
 
 ---
 
-### 🧠 Core Expertise
-- **Machine Learning & AI:** Supervised/Unsupervised Learning, Deep Learning, NLP, Computer Vision  
-- **ML Tools & Libraries:** TensorFlow, PyTorch, Scikit-learn, OpenCV, NLTK  
-- **Data Processing & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Spark  
-- **Model Deployment:** Flask, Docker, MLflow, Streamlit  
-- **Databases:** MySQL, PostgreSQL, MongoDB  
-- **Cloud Platforms:** AWS (S3, EC2, Lambda, RDS, Glue)  
-- **Programming Languages:** Python, SQL, HTML/CSS  
-- **Other Tools:** GitHub, Jupyter, VS Code  
-
----
-
-### 🧩 Featured Projects
-#### 🖼️ Image Super-Resolution using Enhanced ESRGAN
-Enhanced ESRGAN architecture to address perceptual loss limitations, improving image quality and reducing visual artifacts.  
-**Tech:** Python, PyTorch, OpenCV, NumPy, Scikit-learn  
-
-#### 💬 Duplicate Question Detector (NLP)
-Developed a semantic similarity system for detecting duplicate questions on platforms like Quora.  
-**Tech:** Python, NLTK, Scikit-learn, Pandas, NumPy  
-
----
-
 ### ⚙️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
