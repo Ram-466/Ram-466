@@ -43,7 +43,7 @@ When I’m not building models, I enjoy exploring creative projects in **art**, 
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Ram-466&theme=tokyonight&no-frame=true&margin-w=8"/>
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=Ram-466&theme=tokyonight&no-frame=true&margin-w=8"/>
 </p>
 
 ---
