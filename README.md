@@ -32,7 +32,7 @@ When I’m not building models, I enjoy exploring creative projects in **art**, 
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ram-466&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ram-466&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ram-466&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ When I’m not building models, I enjoy exploring creative projects in **art**, 
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ram-466&theme=tokyonight&no-frame=true&margin-w=8"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Ram-466&theme=tokyonight&no-frame=true&margin-w=8"/>
 </p>
 
 ---
