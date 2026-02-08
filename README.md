@@ -30,13 +30,14 @@ When I’m not building models, I enjoy exploring creative projects in **art**, 
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ram-466&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ram-466&theme=tokyonight"/>
+  <img src="https://YOUR-DEPLOYMENT.vercel.app/api?username=Ram-466&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Ram-466&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-466&theme=tokyonight&layout=compact"/>
+  <img src="https://YOUR-DEPLOYMENT.vercel.app/api/top-langs/?username=Ram-466&theme=tokyonight&layout=compact" />
 </p>
+
 
 ---
 
