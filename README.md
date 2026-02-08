@@ -7,7 +7,6 @@
 I’m an **Aspiring Machine Learning Engineer** passionate about transforming data into intelligent solutions.  
 With hands-on experience in **Deep Learning**, **NLP**, and **Computer Vision**, I build models that learn, adapt, and deliver insights that matter.  
 
-Currently pursuing my **Master’s in Business Analytics** at *Trine University, Indiana (US)*, and continuously exploring real-world applications of AI — from **duplicate question detection** to **medical diagnostic systems**.  
 
 When I’m not building models, I enjoy exploring creative projects in **art**, **photography**, and **design thinking**.
 
@@ -31,12 +30,12 @@ When I’m not building models, I enjoy exploring creative projects in **art**, 
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ram-466&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ram-466&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ram-466&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ram-466&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-466&theme=tokyonight&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-466&theme=tokyonight&layout=compact"/>
 </p>
 
 ---
