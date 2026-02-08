@@ -35,10 +35,6 @@ When I’m not building models, I enjoy exploring creative projects in **art**, 
 </p>
 
 
-<p align="center">
-  <img src="https://YOUR-DEPLOYMENT.vercel.app/api/top-langs/?username=Ram-466&theme=tokyonight&layout=compact" />
-</p>
-
 
 ---
 
